@@ -3,19 +3,16 @@
   <img id="randomImage" src="" width="300"/>
 </div>
 <script>
-  // Массив ссылок на фотографии
   const imageUrls = [
     'https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif',
     'https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGpybm9rZzZzeW8xbXFmcnZsMWRsajBtb2Zua2N5aHJmanhzbWNtdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gjrYDwbjnK8x36xZIO/giphy.gif',
     'https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGQ3ZGN0MnpnbHI5enBta2o4aXp5MWMzN3pkN3B0b3l3NWN6MG44NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fkZukR450RQ1qnGaq9/giphy.gif',
     'https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTVwazF2NXpqdXc1bnE0aW0zbGM1dmx2MnF6YTlkZm4wajlwYmF5aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lP8xu5t2DLGG045H8F/giphy.gif'
   ];
-  // Функция для выбора случайной ссылки
   function getRandomImage() {
     const randomIndex = Math.floor(Math.random() * imageUrls.length);
     return imageUrls[randomIndex];
   }
-  // Установка случайной ссылки на изображение
   document.getElementById('randomImage').src = getRandomImage();
 </script>
 
