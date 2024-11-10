@@ -1,20 +1,6 @@
-</div>
 <div id="header" align="center">
-  <img id="randomImage" src="" width="300"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExazVrZHIyZWljODlidWZpODdta2c1Ym83aGh2azJ0YXZiamk3amtsMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gjrYDwbjnK8x36xZIO/giphy.gif" width="200"/>
 </div>
-<script>
-  const imageUrls = [
-    'https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif',
-    'https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGpybm9rZzZzeW8xbXFmcnZsMWRsajBtb2Zua2N5aHJmanhzbWNtdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gjrYDwbjnK8x36xZIO/giphy.gif',
-    'https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGQ3ZGN0MnpnbHI5enBta2o4aXp5MWMzN3pkN3B0b3l3NWN6MG44NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fkZukR450RQ1qnGaq9/giphy.gif',
-    'https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTVwazF2NXpqdXc1bnE0aW0zbGM1dmx2MnF6YTlkZm4wajlwYmF5aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lP8xu5t2DLGG045H8F/giphy.gif'
-  ];
-  function getRandomImage() {
-    const randomIndex = Math.floor(Math.random() * imageUrls.length);
-    return imageUrls[randomIndex];
-  }
-  document.getElementById('randomImage').src = getRandomImage();
-</script>
 
 Приветики ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Меня зовут Сыймык (Sem)! 
 =========================================================================================================================================
