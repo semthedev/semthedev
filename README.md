@@ -102,4 +102,3 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" width="150" height="36" alt="Tableau" />
     </a>
 </p>
- 
