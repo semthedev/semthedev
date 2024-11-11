@@ -78,7 +78,7 @@
     </a>
     <!-- Ubuntu -->
     <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original-wordmark.svg" width="36" height="36" alt="Ubuntu" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width="36" height="36" alt="Ubuntu" />
     </a>
     <!-- Google Colab -->
     <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
@@ -86,19 +86,15 @@
     </a>
     <!-- Bizagi Modeler -->
     <a href="https://www.bizagi.com/en/platform/modeler" target="_blank" rel="noreferrer">
-        <img src="https://www.bizagi.com/public/images/favicon.ico" width="36" height="36" alt="Bizagi Modeler" />
-    </a>
-    <!-- AllFusion Process Modeler -->
-    <a href="https://www.bpi-process.com/en/allfusion-process-modeler/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/IDEF_standard.svg/1200px-IDEF_standard.svg.png" width="36" height="36" alt="AllFusion Process Modeler" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/Logo-bizagi-2021.svg" width="150" height="36" alt="Bizagi Modeler" />
     </a>
     <!-- Power BI -->
     <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40" height="36" alt="Power BI" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="36" height="36" alt="Power BI" />
     </a>
     <!-- Tableau -->
     <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" width="120" height="36" alt="Tableau" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" width="150" height="36" alt="Tableau" />
     </a>
 </p>
  
