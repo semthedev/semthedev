@@ -1,6 +1,11 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=semthedev.semthedev"/>
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3d0ZHRlZDNjdHZiandvMjZwZTk1MmY3Y3ZueG96d3F2dzRzMm5tNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fwbzI2kV3Qrlpkh59e/giphy.gif" width="300"/>
 </div>
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=30&pause=1000&color=7BC96FF7&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+Syimyk+%7CSam+%7CSem!" />
+</h1>
 
 Привет ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) меня зовут Сыймык (Сэм)! 
 =========================================================================================================================================
