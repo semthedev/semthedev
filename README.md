@@ -103,4 +103,4 @@
     </a>
 </p>
 
-
+![snake gif](https://github.com/semthedev/semthedev/blob/output/github-snake.svg)
