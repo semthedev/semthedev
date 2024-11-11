@@ -1,4 +1,3 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=semthedev.semthedev"/>
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3d0ZHRlZDNjdHZiandvMjZwZTk1MmY3Y3ZueG96d3F2dzRzMm5tNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fwbzI2kV3Qrlpkh59e/giphy.gif" width="300"/>
 </div>
@@ -101,6 +100,10 @@
     <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" width="150" height="36" alt="Tableau" />
     </a>
+</p>
+
+<p align="center">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=semthedev.semthedev" alt="Visitor Count"/>
 </p>
 
 ![snake gif](https://github.com/semthedev/semthedev/blob/output/github-snake.svg)
