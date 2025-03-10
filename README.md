@@ -3,7 +3,7 @@
 </div>
 
 ## Sam / Syimyk / Sem Khamdamov 
-## Data Analyst / Data Scientist
+### Data Analyst / Data Scientist
 
 #### DA & DS stack
 <p align="left">
@@ -179,7 +179,8 @@
   </a>
 </p>
 
-
+### 👨‍🎓 Education
+- [RusBioTech](https://mgupp.ru/) (2021 - Present day)
 
 
 
