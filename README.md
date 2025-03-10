@@ -182,6 +182,14 @@
 ### 👨‍🎓 Education
 - [RusBioTech](https://mgupp.ru/) (2021 - Present day)
 
+### 👨🏻‍💻 Internship / Work experience
+- 
+
+### Languages
+🇰🇬 Kyrgyz - Native <br>
+🇷🇺 Russian - Native <br>
+🇬🇧 English - C1 <br>
+🇹🇷 Turkish - C1 <br>
 
 
 
