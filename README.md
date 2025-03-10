@@ -1,11 +1,7 @@
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2t5bnI5aXB1d3ZzOHZtbXZnNnp6b2dicWNlM2RpejV3YXEybWUzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
 </div>
-
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=30&pause=1000&color=7BC96FF7&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+Syimyk+%7CSam+%7CSem!" />
-</h1>
-
+Data Analyst/ Data Scientist
 =========================================================================================================================================
 ## 👨‍🎓 Обо мне
 ## 🛠 Технологии
