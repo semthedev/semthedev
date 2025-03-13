@@ -198,4 +198,3 @@
     <img src="https://visitor-badge.laobi.icu/badge?page_id=semthedev.semthedev" alt="Visitor Count"/>
 </p>
 
-![snake gif](https://github.com/semthedev/semthedev/blob/output/github-snake.svg)
