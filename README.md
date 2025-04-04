@@ -188,7 +188,7 @@
 ### Languages
 🇰🇬 Kyrgyz - Native <br>
 🇷🇺 Russian - Native <br>
-🇬🇧 English - C1 <br>
+🇬🇧 English - C1 - IELTS 7.0 <br>
 🇹🇷 Turkish - C1 <br>
 
 
