@@ -180,7 +180,7 @@
 </p>
 
 ### 👨‍🎓 Education
-- [National Research University Higher School of Economics (HSE) FCS] (https://www.hse.ru/ma/datasci/) (2025 - 2027)
+- [National Research University Higher School of Economics (HSE) FCS](https://www.hse.ru/ma/datasci/) (2025 - 2027)
 - [RusBioTech](https://mgupp.ru/) (2021 - 2025)
 
 ### 👨🏻‍💻 Internship / Work experience
