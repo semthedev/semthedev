@@ -184,7 +184,10 @@
 - [RusBioTech](https://mgupp.ru/) (2021 - 2025)
 
 ### 👨🏻‍💻 Internship / Work experience
-- 
+
+
+<a href="./Хамдамов Сыймык резюме.pdf" target="_blank">📄 View my CV</a>
+
 
 ### Languages
 🇰🇬 Kyrgyz - Native <br>
