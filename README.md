@@ -186,7 +186,7 @@
 ### 👨🏻‍💻 Internship / Work experience
 
 
-<a href="[./Хамдамов Сыймык резюме.pdf" target="_blank](https://www.overleaf.com/read/ygdxrxwmpnxk#4ac203)">📄 View my CV</a>
+<a href="https://www.overleaf.com/read/ygdxrxwmpnxk#4ac203">📄 View my CV</a>
 
 
 ### Languages
