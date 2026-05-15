@@ -5,6 +5,12 @@
 ## Sam / Syimyk / Sem Khamdamov 
 ### Data Analyst / Data Scientist
 
+
+### 👨🏻‍💻 Internship / Work experience
+
+
+<a href="https://www.overleaf.com/read/wfwmpgtqrsnz#13ce54">📄 View my CV</a>
+
 #### DA & DS stack
 <p align="left">
   <!-- Python -->
@@ -183,10 +189,6 @@
 - [National Research University Higher School of Economics (HSE) FCS](https://www.hse.ru/ma/datasci/) (2025 - 2027)
 - [RusBioTech](https://mgupp.ru/) (2021 - 2025)
 
-### 👨🏻‍💻 Internship / Work experience
-
-
-<a href="https://www.overleaf.com/read/ygdxrxwmpnxk#4ac203">📄 View my CV</a>
 
 
 ### Languages
